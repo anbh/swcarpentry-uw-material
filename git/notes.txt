@@ -1,5 +1,5 @@
+
 Notes from Git sessions:
 
 New information in Git
 
-- 
