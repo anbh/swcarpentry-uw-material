@@ -1,5 +1,10 @@
 
+
 Notes from Git sessions:
 
 New information in Git
+
+=======
+Notes from Git sessions:
+
 
